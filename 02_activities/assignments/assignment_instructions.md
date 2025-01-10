@@ -1,3 +1,4 @@
+
 # Shell / Git Assignment
 You work in the data team at a consulting firm, and one of your team's products is helping companies optimize and manage their cloud hosting expenditures.
 
